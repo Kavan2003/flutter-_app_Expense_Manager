@@ -107,6 +107,7 @@ class _NewTransactionState extends State<NewTransaction> {
                   fontWeight: FontWeight.bold,
                   color: Colors.amber[300],
                 ),
+            
               ),
 
               // textColor: Theme.of(context).textTheme.button.coslor,
